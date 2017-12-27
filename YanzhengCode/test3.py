@@ -23,7 +23,7 @@ print (int(n_batch)+1)
 TFRECORD_FILE='C:/Users/931/PycharmProjects/YanzhengCode/captcha/train.tfrecords'
 
 #改变x的格式转为4D的向量[batch,in_height,in_width,in_channels]
-x=tf.placeholder(tf.float32,[None,224,224])
+x=tf.placeholder(tf.float32,[None,224,224,3])
 y0=tf.placeholder(tf.float32,[None])
 y1=tf.placeholder(tf.float32,[None])
 y2=tf.placeholder(tf.float32,[None])

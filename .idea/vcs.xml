@@ -2,5 +2,11 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CNN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CNN_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Week2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/knn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tenserflow" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/untitled3" vcs="Git" />
   </component>
 </project>
